@@ -14,9 +14,9 @@ this folder is to practice GIT and understand how this version control tool work
 
 AFTER create git in your computer we want to push it remotely 
 - login github 
-- then create repository
+- then create repository (remote/ online)
 - copy the URL for the repo in this case is (https://github.com/datduc165/Story.git)
-- go to the git bash and start add origin folder (working folder)
+- go to the git bash and start add origin folder (working folder) / we are pushing our local working folder to the remote github
 - git remote add origin https://github.com/datduc165/Story.git
 - git push origin master (to push everything to the github remotely)
     - origin is the name 
